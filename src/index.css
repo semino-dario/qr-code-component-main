@@ -3,8 +3,11 @@ html {
 }
 
 body {
-  margin: 5rem auto;
+  height: 100vh;
   background: #d5e1ef;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 * {
